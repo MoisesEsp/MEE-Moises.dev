@@ -1,0 +1,6 @@
+# Agent skills installed locally (regenerable from skills-lock.json)
+.agents/
+
+# Source images not used by the site
+assets/img/profile.jpg
+assets/img/profile-original.jpeg
