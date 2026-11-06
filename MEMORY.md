@@ -1,6 +1,7 @@
 # MEMORY.md — Diario de Estudio
 Memoria entre sesiones. Máximo ~50 líneas; resume o elimina lo que ya no aporte.
 ## Estado actual
+- Publicado en GitHub Pages: https://moisesesp.github.io/MEE-Moises.dev/ (rama `main`, raíz, sin build).
 - Esqueleto completo: `index.html` (hero + secciones 01–07 + footer) y `css/styles.css`.
 - Contenido real de `InfPersonal.md`, foto `assets/img/profile.webp` en el hero.
 - Escala tipográfica revisada: cuerpo 16–18 px, textos `--muted` pequeños subidos (nav, hero intro, captions, footer, metadatos).
