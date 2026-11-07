@@ -1,6 +1,15 @@
 # Agent skills installed locally (regenerable from skills-lock.json)
 .agents/
 
+# AI configuration and project notes (local only)
+AGENTS.md
+MEMORY.md
+opencode.json
+skills-lock.json
+
+# Personal data source (contains contact details)
+InfPersonal.md
+
 # Source images not used by the site
 assets/img/profile.jpg
 assets/img/profile-original.jpeg
